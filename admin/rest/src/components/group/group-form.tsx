@@ -59,6 +59,11 @@ const layoutTypes = [
     value: "minimal",
     img: "/image/layout-minimal.png",
   },
+  {
+    label: "Masonary",
+    value: "masonary",
+    img: "/image/layout-masonary.png",
+  },
 ];
 const productCards = [
   {
